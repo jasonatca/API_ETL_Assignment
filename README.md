@@ -1,4 +1,4 @@
-# API_Assignment
+# API_ETL_Assignment
 
 This API project aims for building a ETL pipeline where API is a primarily method to get the source data. Since we are usually dealing with different kind of data and its sources. 
 Three publicly avaialbe  data sources are used. The following is their information:
